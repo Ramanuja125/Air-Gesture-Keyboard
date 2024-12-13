@@ -1,0 +1,3 @@
+OPENING SERIAL_PORT '' WITH BAUDRATE 38400...
+IMPORTANT!
+To end the program hold Ctrl+C and send some data over serial

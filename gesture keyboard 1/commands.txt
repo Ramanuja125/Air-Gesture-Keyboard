@@ -1,0 +1,7 @@
+python start.py target=a:0 port=COM3
+
+python learn.py
+
+python start.py port=COM3 predict
+
+python window.py
